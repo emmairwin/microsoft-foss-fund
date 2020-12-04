@@ -35,15 +35,11 @@ to communities and projects that help power Microsoft products, services, and ou
 Every month a new fund and selection process will provide $10,000 to an open source project, typically as $1,000 payments
 over 10 months. Any employee or intern at Microsoft can nominate a project, with a few requirements:
 
-#### Nominations
-There are a few criteria for nominations:
-
 - (For FOSS Fund #5 **ONLY**)Is an active OSS project, with sustainable development goals ([SDG](https://www.unicef.org/sdgs)).
 - The project must have an [OSI-approved open source license](https://opensource.org/)
 - Needs to have a way to receive funds that our procurement and legal teams are happy with ([GitHub Sponsors](https://github.com/sponsors) is great!)
 - the project cannot be owned by a Microsoft employee
 
-#### Employee Voting
 Each funding period has a set _eligibility_ date range for voting. During that time:
 
 * Any Microsoft employee who contributes to
@@ -66,8 +62,7 @@ use an OSI-approved license, be able to receive funds (sometimes this may requir
 
 ## Resources for Microsoft employees:
 
-
-* Looking for projects that match the change you want to see inthe world?  Consider reviewing [Unicef's Digital Public Good Registry (search by type'software')](https://digitalpublicgoods.net/registry/)
+- Looking for projects that match the change you want to see inthe world?  Consider reviewing [Unicef's Digital Public Good Registry (search by type'software')](https://digitalpublicgoods.net/registry/)
 - Learn about the fund and select a project in the current round: [aka.ms/fossfund](https://aka.ms/fossfund)
 - Review nomination criteria and other information: [aka.ms/fossfundform](https://aka.ms/fossfundform)
 - Employee resources about open source at Microsoft: [aka.ms/opensource](https://aka.ms/opensource)
