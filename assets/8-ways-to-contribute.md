@@ -1,7 +1,7 @@
 # 8 ways you can contribute to open source today
 *Or... ways you've contributed recently that you may  not be aware of.*
 
-There are lots of ways to contribute to open source. Here are a few that might fit with the work you're doing and will qualify your participation in this **FOSS Fund voting.
+There are lots of ways to contribute to open source. Here are a few that might fit with the work you're doing and will qualify your participation in this FOSS Fund voting.
 
 ## 1. Good First Bug
 One of the quickest ways to evaluate contribution opportunities on Github, without requiring a lot of up-front information is to sort by the '[good first issue](https://github.com/topics/good-first-issue)' tag.
@@ -20,14 +20,14 @@ That's a contribution!
 We put a lot of emphasis on contributing code, but did you know one of the greatest things we can do is to help maintainers by validating the contributions of others?  Here are three ways to do that:
 * **See if you can duplicate an issue** reported by someone else. If you validate an issue, add any additional context, steps or observations that might be missing or otherwise feel important. 
 * **Validate that a PR fixes an issue as intended**. Merge a PR into the related version and test. 
-* Updating issues, or tasks with additional information that helped you test, or work through the solution.
+* **Updating issues**, or tasks with additional information that helped you test, or work through the solution.
 
 ## 4. Documentation & Writing
-Updating documentation is a valuable contribution. A few options might be:
+Updating documentation is a very valuable contribution. A few options might be:
 
 * Look for an component you use on [Microsoft Docs](https://docs.microsoft.com/en-us/contribute/), review and improve the documentation if you can, or make suggestions.
 * Contribute to web developer knowledge through [MDN Web Docs](https://developer.mozilla.org/en-US/). 
-* Updating the project documentation like 'how to get involved'.
+* Updating any OSS onboarding project documentation like 'how to get involved' to be clearer, and up-to-date.
 
 ## 5. Governance & Board Participation
 Are you already on a board driving change in the open ecosystem? Are you meeting regularly, sharing your knowledge and advice? This is an ongoing contribution.
