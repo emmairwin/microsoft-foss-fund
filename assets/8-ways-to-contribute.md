@@ -19,15 +19,16 @@ That's a contribution!
 ## 3. Validate an Issue or PR
 We put a lot of emphasis on contributing code, but did you know one of the greatest things we can do is to help maintainers by validating the contributions of others?  Here are three ways to do that:
 * **See if you can duplicate an issue** reported by someone else. If you validate an issue, add any additional context, steps or observations that might be missing or otherwise feel important. 
-* **Validate that a PR fixes an issue as intended**. Merge a PR into the related version and test. 
+* **Validate that a PR fixes an issue as intended**. Merge a PR into the related version and test. Update the PR comments with your test outcome.
 * **Updating issues**, or tasks with additional information that helped you test, or work through the solution.
 
 ## 4. Documentation & Writing
-Updating documentation is a very valuable contribution. A few options might be:
+Writing and updating documentation is a very valuable contribution. A few options might be:
 
 * Look for an component you use on [Microsoft Docs](https://docs.microsoft.com/en-us/contribute/), review and improve the documentation if you can, or make suggestions.
 * Contribute to web developer knowledge through [MDN Web Docs](https://developer.mozilla.org/en-US/). 
-* Updating any OSS onboarding project documentation like 'how to get involved' to be clearer, and up-to-date.
+* Update any OSS onboarding project documentation like 'how to get involved' to be clearer, and up-to-date.
+* Translate documentation to another language.
 
 ## 5. Governance & Board Participation
 Are you already on a board driving change in the open ecosystem? Are you meeting regularly, sharing your knowledge and advice? This is an ongoing contribution.
